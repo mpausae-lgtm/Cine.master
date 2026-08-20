@@ -1,0 +1,8 @@
+{
+  "name": "Remix CineMind AI",
+  "description": "Advanced intelligent video editing assistant with Hinglish natural language command engine, auto captions, and watermark-free exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
